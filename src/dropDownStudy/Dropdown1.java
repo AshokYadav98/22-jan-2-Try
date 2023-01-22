@@ -10,6 +10,11 @@ public class Dropdown1 {
 
 	public static void main(String[] args) throws InterruptedException 
 	{
+		
+		
+		
+		
+		
 		System.setProperty("webdriver.chrome.driver", "F:\\MY DOCUMENTS\\my new selenium file\\chromedriver_win32\\chromedriver.exe");
 		
 		WebDriver driver=new ChromeDriver();
